@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Newtonsoft.Json;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Clase2Practica
+namespace Clase2Practica.Clase2Practica
 {
     class EjercicioLeerJson
     {
@@ -15,7 +17,7 @@ namespace Clase2Practica
             //string directorioDelJson = $@"..\.\..\..\{Directory.GetCurrentDirectory()}";
 
             //para archivos grandes, se debe leer de a bloques utilizando un while
-            string jsonText = File.ReadAllText(@"..\.\..\..\..\ordenes.json");
+            string jsonText = File.ReadAllText(@"..\.\..\..\ordenes.json");
 
             //parsear json
             JsonRoot jsonObj = JsonConvert.DeserializeObject<JsonRoot>(jsonText);

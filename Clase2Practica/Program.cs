@@ -1,10 +1,10 @@
-﻿using Newtonsoft.Json;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Clase2Practica
+namespace Clase2Practica.Clase2Practica
 {
     class Program
     {
@@ -12,7 +12,5 @@ namespace Clase2Practica
         {
             EjercicioLeerJson.Ejecutar();
         }
-
-
     }
 }

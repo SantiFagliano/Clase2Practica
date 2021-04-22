@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clase2Practica
+namespace Clase2Practica.Clase2Practica
 {
     public class JsonRoot
     {
