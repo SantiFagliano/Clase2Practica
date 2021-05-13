@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lSS8reUA4F09HhoO7XVhjHu2+NBlVjA4KHUaIWVjskJoMycUD9z+0c2c011DzyZfoWp3/sspyh/IZvDazoYgeQ==",
+  "dgSpecHash": "vaXdmUVW375BXmy8zHbzkXEb6gOxjiVrDsKBz+MHH3e9UnTn7kXqP5cqcK5EmN/mHtTQY+23L0Y0wqB4NiE/yw==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\Clase2Practica.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\Clase2Practica.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Santiago\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

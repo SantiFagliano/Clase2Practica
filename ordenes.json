@@ -10,7 +10,7 @@
     {
       "nroOrden": 2,
       "descripcion": "Manguera 3/4",
-      "Cantidad": 1,
+      "cantidad": 1,
       "precio": 100,
       "entregada": true
     },
@@ -19,6 +19,27 @@
       "descripcion": "Rodillo",
       "cantidad": 1,
       "precio": 300,
+      "entregada": false
+    },
+    {
+      "nroOrden": 4,
+      "descripcion": "Coca cola",
+      "cantidad": 12,
+      "precio": 20,
+      "entregada": false
+    },
+    {
+      "nroOrden": 5,
+      "descripcion": "Coca cola",
+      "cantidad": 20,
+      "precio": 12,
+      "entregada": false
+    },
+    {
+      "nroOrden": 6,
+      "descripcion": "Sprite",
+      "cantidad": 3,
+      "precio": 10,
       "entregada": false
     }
   ]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\Clase2Practica.csproj": {}
+    "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\Clase2Practica.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\Clase2Practica.csproj": {
+    "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\Clase2Practica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\Clase2Practica.csproj",
+        "projectUniqueName": "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\Clase2Practica.csproj",
         "projectName": "Clase2Practica",
-        "projectPath": "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\Clase2Practica.csproj",
-        "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Facultad\\Programacion-Web-III\\Clase2Practica\\obj\\",
+        "projectPath": "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\Clase2Practica.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador\\Source\\Repos\\Clase2Practica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

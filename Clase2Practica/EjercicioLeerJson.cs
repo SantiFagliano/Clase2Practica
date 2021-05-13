@@ -27,10 +27,10 @@ namespace Clase2Practica.Clase2Practica
 
             //mostrar por pantalla
             Console.WriteLine("Las ordenes sin entregar son:");
-            Console.WriteLine("nroOrden, descripcion, cantidad, precio");
+            Console.WriteLine("nroOrden - descripcion - cantidad - precio");
             foreach (Orden orden in ordenesSinEntregar)
             {
-                Console.WriteLine($"{orden.nroOrden}, {orden.descripcion}, {orden.cantidad}, {orden.precio}");
+                Console.WriteLine($"{orden.nroOrden}.   {orden.descripcion}, {orden.cantidad}, {orden.precio}");
             }
         }
     }
